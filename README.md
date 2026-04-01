@@ -24,7 +24,7 @@ Emulator beacona BTHome kompatybilny z urządzeniem Shelly BLU Button1. Projekt 
 
 ### Konfiguracja i uruchomienie
 
-1. Zainstaluj bibliotekę **ArduinoBLE** w Arduino IDE (lub PlatformIO).
+1. Zainstaluj bibliotekę **ArduinoBLE** w Arduino IDE.
 2. Skopiuj kod `beacon.ino` do nowego szkicu.
 3. Wybierz płytkę **Seeed XIAO nRF52840** i odpowiedni port.
 4. Skompiluj i wgraj program na płytkę.
