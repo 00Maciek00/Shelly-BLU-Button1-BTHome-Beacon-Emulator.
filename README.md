@@ -42,10 +42,10 @@ Projekt udostępniony na licencji **Apache License 2.0**. Szczegóły w pliku [L
 
 ### Autor
 
-Wersja / Version: 1.0
-Autor / Author: Maciej Sikorski
-Data / Date: 01.04.2026
-Licencja / License: Apache 2.0
+**Wersja:** 1.0  
+**Autor:** Maciej Sikorski  
+**Data:** 01.04.2026  
+**Licencja:** Apache 2.0
 
 ---
 
@@ -87,7 +87,7 @@ This project is licensed under the **Apache License 2.0**. See the [LICENSE](LIC
 
 ### Author
 
-Wersja / Version: 1.0
-Autor / Author: Maciej Sikorski
-Data / Date: 01.04.2026
-Licencja / License: Apache 2.0
+**Version:** 1.0  
+**Author:** Maciej Sikorski  
+**Date:** 01.04.2026  
+**License:** Apache 2.0
