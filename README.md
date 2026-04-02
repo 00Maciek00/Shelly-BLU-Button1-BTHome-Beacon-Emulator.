@@ -8,6 +8,8 @@
 
 Emulator beacona BTHome kompatybilny z urządzeniem Shelly BLU Button1. Projekt umożliwia emulację ramek BLE (advertising i scan response) w identycznej postaci bajt po bajcie jak oryginalne urządzenie Shelly, co pozwala na bezproblemową integrację z systemami obsługującymi protokół BTHome, takimi jak Home Assistant czy aplikacja Shelly.
 
+![PCB](images/PCB.jpg)
+
 ### Funkcjonalności
 
 - **Emulacja 1:1** – ramki BLE są identyczne jak w oryginalnym Shelly BLU Button1.
@@ -52,6 +54,8 @@ Projekt udostępniony na licencji **Apache License 2.0**. Szczegóły w pliku [L
 ## English
 
 BTHome beacon emulator compatible with the Shelly BLU Button1 device. This project emulates BLE advertising and scan response frames byte-for-byte identical to the original Shelly device, enabling seamless integration with BTHome-compatible systems such as Home Assistant or the Shelly app.
+
+![PCB](images/PCB.jpg)
 
 ### Features
 
