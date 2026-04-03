@@ -222,8 +222,8 @@ void parseMac() {
 // ─────────────────────────────────────────────────────────────────────────────
 void buildAndSendFrames() {
 
-  // !! RAMKA ŚWIĘTA – nie zmieniać kolejności ani wartości stałych bajtów !!
-  // !! SACRED FRAME  – do not change the order or values of constant bytes !!
+  // !! nie zmieniać kolejności ani wartości stałych bajtów !!
+  // !! do not change the order or values of constant bytes !!
   uint8_t advRaw[31] = {
     0x02, 0x01, 0x06,
     0x0A, 0x16, 0xD2, 0xFC, 0x44, 0x00, packetId, 0x01, batteryLevel, 0x3A, 0x00,
